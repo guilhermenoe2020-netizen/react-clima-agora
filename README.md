@@ -5,7 +5,7 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vite.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
-**[Acessar site](#)**
+**[Acessar site](https://react-clima-agora.vercel.app)**
 
 Aplicação web desenvolvida com o objetivo de praticar os fundamentos de React por meio da criação de uma aplicação meteorológica que utiliza a API Open-Meteo para consultar condições climáticas e previsões do tempo por cidade.
 
